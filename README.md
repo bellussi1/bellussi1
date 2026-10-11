@@ -6,7 +6,7 @@
 
 Angular · React · Next.js · TypeScript
 
-Desenvolvo interfaces web, de sistemas de gestão a jogos no navegador.
+Desenvolvo interfaces web com foco em usabilidade, performance e manutenção.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://bellussi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/enzo-bellussi/)
@@ -37,10 +37,7 @@ Nos meus projetos, exploro integração com APIs, gerenciamento de estado e layo
 
 | Projeto | O que você encontra | Tecnologias | Explore |
 | :--- | :--- | :--- | :--- |
-| **🍽️ Comandinha** | Front-end de um sistema de comandas digitais para restaurantes, com cardápio e painel de pedidos. | Next.js, TypeScript, Tailwind CSS, shadcn/ui | [Código](https://github.com/bellussi1/comandinha) |
-| **⚡ PokéBazar** | Jogo de estratégia com leilão de Pokémon, montagem de equipes e batalhas contra BOT. | HTML, CSS, JavaScript, PokéAPI | [Jogar](https://bellussi1.github.io/pokebazar/) · [Código](https://github.com/bellussi1/pokebazar) |
 | **↗ Portfólio** | Minha apresentação e uma seleção dos meus trabalhos de desenvolvimento web. | HTML, CSS, JavaScript, Vite | [Visitar](https://bellussi.vercel.app) · [Código](https://github.com/bellussi1/bellussi-portifolio) |
-| **📦 S.HELF** | Front-end de um sistema de controle de estoque, desenvolvido em um projeto interdisciplinar de Ciência da Computação. | Vue.js, Vuex, Vue Router | [Código](https://github.com/bellussi1/s.helf) |
 
 ## Estudos de interface
 
