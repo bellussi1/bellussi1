@@ -2,58 +2,67 @@
 
 # Enzo Bellussi
 
-### Front-end Developer
+**Software Engineer · Front-end**
 
-Angular · React · Next.js · TypeScript
+Construo e evoluo aplicações web com foco em usabilidade, performance e manutenção.
 
-Desenvolvo interfaces web com foco em usabilidade, performance e manutenção.
-
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-18181B?style=for-the-badge&logo=vercel&logoColor=white)](https://bellussi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/enzo-bellussi/)
+[Portfólio](https://bellussi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enzo-bellussi/)
 
 </div>
 
----
+## Experiência
 
-## Sobre mim
+- **MarketData** · Desenvolvedor Front-end · ago. 2024–atual. Aplicações corporativas com React, Angular e TypeScript; responsabilidade técnica em projetos para Dexco e RecargaPay, integração com APIs e entrega em produção.
+- **Banco do Brasil** · Estágio em desenvolvimento Front-end · out. 2022–ago. 2024. Refatoração de portal interno em Vue.js, componentes de Design System e integração com microsserviços Node.js.
 
-Meu foco é desenvolvimento front-end, com atenção ao visual, à navegação e à experiência de quem usa a aplicação. Aqui compartilho projetos pessoais, trabalhos acadêmicos e estudos de interface.
+## Ferramentas open source
 
-Nos meus projetos, exploro integração com APIs, gerenciamento de estado e layouts responsivos. Gosto de trabalhar tanto nos detalhes da interface quanto na lógica que faz tudo funcionar.
+- [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · valida variáveis, arquivos e URLs antes de um deploy.
+- [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · captura eventos locais, guarda payloads em SQLite e permite reproduzir webhooks durante o desenvolvimento.
+- [Compose Doctor](https://github.com/bellussi1/compose-doctor) · diagnostica serviços Docker Compose com consultas somente de leitura e relatórios para terminal ou CI.
+
+## Produtos
+
+- [Comandinha](https://github.com/bellussi1/comandinha) · plataforma de operação para restaurantes, com catálogo, mesas, pedidos e cardápio por QR. A nova base Next.js/NestJS com PostgreSQL e Prisma está em migração e ainda não está pronta para produção.
+- **Black Market** · SaaS privado em desenvolvimento para a comunidade brasileira de Black Desert Online. Explora organização de inventário e receitas de criação com revisão manual; não tem lançamento público.
 
 ## Tecnologias
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=18181B)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
+TypeScript · React · Angular · Vue.js · Next.js · Node.js · NestJS · PostgreSQL · Prisma · AWS
 
-## Projetos em destaque
+## Formação e idiomas
 
-| Projeto | O que você encontra | Tecnologias | Explore |
-| :--- | :--- | :--- | :--- |
-| **↗ Portfólio** | Minha apresentação e uma seleção dos meus trabalhos de desenvolvimento web. | HTML, CSS, JavaScript, Vite | [Visitar](https://bellussi.vercel.app) · [Código](https://github.com/bellussi1/bellussi-portifolio) |
-
-## Estudos de interface
-
-Também mantenho projetos menores para experimentar layouts, componentes e interação:
-
-- [Cryptoverse](https://github.com/bellussi1/cryptoverse): dashboard de criptomoedas com React e integração com APIs.
-- [Camp](https://github.com/bellussi1/camp-landing-page): landing page interativa.
-- [Dashboard Theme](https://github.com/bellussi1/dashboard-theme): estudo de interface de dashboard.
-- [Responsive Login](https://github.com/bellussi1/responsive-login): estudo de tela de login responsiva.
+Ciência da Computação · Universidade FAM · 2022–2025  
+Português nativo · Inglês avançado
 
 ---
 
-<div align="center">
+<details>
+<summary>English version</summary>
 
-**Vamos conversar sobre front-end?**
+### Profile
 
-[Me encontre no LinkedIn](https://www.linkedin.com/in/enzo-bellussi/) · [Conheça meu portfólio](https://bellussi.vercel.app)
+I build and evolve web applications with a focus on usability, performance and maintainability. My experience includes enterprise software in consulting and banking environments.
 
-</div>
+### Experience
+
+- **MarketData** · Front-end Developer · Aug 2024–present. Enterprise applications with React, Angular and TypeScript; technical ownership across projects for Dexco and RecargaPay, API integrations and production delivery.
+- **Banco do Brasil** · Front-end Development Intern · Oct 2022–Aug 2024. Refactored an internal portal with Vue.js, built reusable Design System components and integrated Node.js microservices.
+
+### Open source tools
+
+- [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · checks environment variables, files and URLs before deployment.
+- [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · captures local events, stores payloads in SQLite and replays webhooks during development.
+- [Compose Doctor](https://github.com/bellussi1/compose-doctor) · diagnoses Docker Compose services with read-only queries and terminal or CI reports.
+
+### Products
+
+- [Comandinha](https://github.com/bellussi1/comandinha) · restaurant operations platform for catalogs, tables, orders and QR menus. Its Next.js/NestJS, PostgreSQL and Prisma foundation is being migrated and is not production-ready.
+- **Black Market** · private SaaS in development for Brazil’s Black Desert Online community. It explores inventory organization and crafting recipes with manual review; there is no public launch.
+
+Computer Science · Universidade FAM · 2022–2025  
+Native Portuguese · Advanced English
+
+[Portfolio](https://bellussi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enzo-bellussi/)
+
+</details>
