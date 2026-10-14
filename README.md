@@ -32,7 +32,7 @@ TypeScript · React · Angular · Vue.js · Next.js · Node.js · NestJS · Post
 
 ## Formação e idiomas
 
-Ciência da Computação · Universidade FAM · 2022–2025  
+Ciência da Computação · Universidade FAM · 2022–2025<br />
 Português nativo · Inglês avançado
 
 ---
@@ -60,7 +60,7 @@ I build and evolve web applications with a focus on usability, performance and m
 - [Comandinha](https://github.com/bellussi1/comandinha) · restaurant operations platform for catalogs, tables, orders and QR menus. Its Next.js/NestJS, PostgreSQL and Prisma foundation is being migrated and is not production-ready.
 - **Black Market** · private SaaS in development for Brazil’s Black Desert Online community. It explores inventory organization and crafting recipes with manual review; there is no public launch.
 
-Computer Science · Universidade FAM · 2022–2025  
+Computer Science · Universidade FAM · 2022–2025<br />
 Native Portuguese · Advanced English
 
 [Portfolio](https://bellussi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enzo-bellussi/)
