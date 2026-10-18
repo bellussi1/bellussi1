@@ -39,10 +39,6 @@ Português nativo · Inglês avançado
 
 React · Angular · Vue.js · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · Docker · AWS · CI/CD
 
-## Contribuições open source
-
-[Mihon #4110](https://github.com/mihonapp/mihon/pull/4110) · [Shiori #1216](https://github.com/go-shiori/shiori/pull/1216) · [Paisa #417](https://github.com/ananthakumaran/paisa/pull/417) · [Openreads #913](https://github.com/mateusz-bak/openreads/pull/913)
-
 ---
 
 <details>
