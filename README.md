@@ -22,7 +22,7 @@ Meu espaço profissional para apresentar minha trajetória, experiência e proje
 
 | Projeto | O que faz | Tecnologias / estado |
 | --- | --- | --- |
-| [Comandinha](https://github.com/bellussi1/comandinha) | Plataforma de operação para restaurantes: catálogo, mesas, pedidos e cardápio por QR. | Next.js · NestJS · PostgreSQL · Em modernização |
+| [KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem) | Aplicativo local para gerenciar a biblioteca Calibre, enviar ebooks ao Kindle e acompanhar leituras no Hardcover. | Electron · React · TypeScript · Python · Open source |
 | [Black Market](https://github.com/bellussi1/Black-Market) | Planejador independente de receitas, materiais e custos para Black Desert Online, com revisão de capturas. | Angular · NestJS · PostgreSQL · Código aberto |
 | [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · [CI](https://github.com/bellussi1/deploy-preflight/actions/workflows/ci.yml) | Confere variáveis, arquivos e URLs antes de um deploy. | Node.js · CLI |
 | [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · [CI](https://github.com/bellussi1/local-webhook-recorder/actions/workflows/ci.yml) | Captura, inspeciona e reproduz webhooks em ambientes locais. | Node.js · SQLite |
@@ -60,7 +60,7 @@ My professional home for sharing my experience, career and projects. It brings t
 
 | Project | What it does | Technology / status |
 | --- | --- | --- |
-| [Comandinha](https://github.com/bellussi1/comandinha) | Restaurant operations platform for catalogs, tables, orders and QR menus. | Next.js · NestJS · PostgreSQL · Modernization in progress |
+| [KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem) | Local app to manage a Calibre library, send ebooks to Kindle, and track reading on Hardcover. | Electron · React · TypeScript · Python · Open source |
 | [Black Market](https://github.com/bellussi1/Black-Market) | Independent recipe, material and production cost planner for Black Desert Online, with screenshot review. | Angular · NestJS · PostgreSQL · Open source |
 | [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · [CI](https://github.com/bellussi1/deploy-preflight/actions/workflows/ci.yml) | Checks variables, files and URLs before deployment. | Node.js · CLI |
 | [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · [CI](https://github.com/bellussi1/local-webhook-recorder/actions/workflows/ci.yml) | Captures, inspects and replays webhooks in local environments. | Node.js · SQLite |
