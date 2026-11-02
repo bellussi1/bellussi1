@@ -22,8 +22,9 @@ Meu espaço profissional para apresentar minha trajetória, experiência e proje
 
 | Projeto | O que faz | Tecnologias / estado |
 | --- | --- | --- |
+| [ATLAS](https://github.com/bellussi1/ATLAS) · [ao vivo](https://atlas-kappa-drab.vercel.app) | Enciclopédia visual e interativa de história, política e sociedade: uma rede navegável de pessoas, obras e conceitos, com fonte em cada afirmação. | Angular 21 · TypeScript · Zod · Wikidata · Static-first |
 | [KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem) | Aplicativo local para gerenciar a biblioteca Calibre, enviar ebooks ao Kindle e acompanhar leituras no Hardcover. | Electron · React · TypeScript · Python · Open source |
-| [Black Market](https://github.com/bellussi1/Black-Market) | Planejador independente de receitas, materiais e custos para Black Desert Online, com revisão de capturas. | Angular · NestJS · PostgreSQL · Código aberto |
+| [Black Market](https://github.com/bellussi1/Black-Market) | Planejador independente de receitas e produção para Black Desert Online: compara comprar ou produzir cada material. | Angular SSR · NestJS · PostgreSQL · Drizzle · Código aberto |
 | [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · [CI](https://github.com/bellussi1/deploy-preflight/actions/workflows/ci.yml) | Confere variáveis, arquivos e URLs antes de um deploy. | Node.js · CLI |
 | [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · [CI](https://github.com/bellussi1/local-webhook-recorder/actions/workflows/ci.yml) | Captura, inspeciona e reproduz webhooks em ambientes locais. | Node.js · SQLite |
 | [Compose Doctor](https://github.com/bellussi1/compose-doctor) · [CI](https://github.com/bellussi1/compose-doctor/actions/workflows/ci.yml) | Diagnostica serviços Docker Compose e sugere próximos passos. | Node.js · Docker |
@@ -60,8 +61,9 @@ My professional home for sharing my experience, career and projects. It brings t
 
 | Project | What it does | Technology / status |
 | --- | --- | --- |
+| [ATLAS](https://github.com/bellussi1/ATLAS) · [live](https://atlas-kappa-drab.vercel.app) | Visual, interactive encyclopedia of history, politics and society: a navigable network of people, works and concepts, with a source behind every claim. | Angular 21 · TypeScript · Zod · Wikidata · Static-first |
 | [KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem) | Local app to manage a Calibre library, send ebooks to Kindle, and track reading on Hardcover. | Electron · React · TypeScript · Python · Open source |
-| [Black Market](https://github.com/bellussi1/Black-Market) | Independent recipe, material and production cost planner for Black Desert Online, with screenshot review. | Angular · NestJS · PostgreSQL · Open source |
+| [Black Market](https://github.com/bellussi1/Black-Market) | Independent recipe and production planner for Black Desert Online: compares buying or crafting each material. | Angular SSR · NestJS · PostgreSQL · Drizzle · Open source |
 | [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · [CI](https://github.com/bellussi1/deploy-preflight/actions/workflows/ci.yml) | Checks variables, files and URLs before deployment. | Node.js · CLI |
 | [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · [CI](https://github.com/bellussi1/local-webhook-recorder/actions/workflows/ci.yml) | Captures, inspects and replays webhooks in local environments. | Node.js · SQLite |
 | [Compose Doctor](https://github.com/bellussi1/compose-doctor) · [CI](https://github.com/bellussi1/compose-doctor/actions/workflows/ci.yml) | Diagnoses Docker Compose services and suggests next steps. | Node.js · Docker |
