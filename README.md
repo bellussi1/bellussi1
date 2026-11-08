@@ -1,86 +1,118 @@
 <div align="center">
-  <img src="./assets/profile-header.png" alt="Enzo Bellussi — Software Engineer · Front-end" width="100%" />
+  <img src="./assets/profile-header.png" alt="Enzo Bellussi — Software Engineer" width="100%" />
   <br />
-  <a href="https://bellussi.vercel.app">Portfólio</a>
+  <a href="https://bellussi.vercel.app">Portfolio</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/enzo-bellussi/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:enzobellussi3@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://bellussi.vercel.app/curriculo-en.pdf">Resume</a>
 </div>
 
-## Sobre
+## Hi, I'm Enzo
 
-Sou Software Engineer com foco em front-end. Na **MarketData**, trabalho com React, Angular e TypeScript em produtos corporativos, incluindo projetos para Dexco e RecargaPay. Antes, atuei no **Banco do Brasil** com Vue.js, componentes de Design System e integrações com serviços Node.js.
+I'm a **software engineer** based in São Paulo, Brazil. I build and maintain enterprise web products and open-source tools, with **front-end depth and range across the stack**.
 
-Estou aberto a oportunidades em engenharia de software, especialmente front-end. [Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/enzo-bellussi/).
+My core is **TypeScript, React, Angular and Node.js**. Around it: REST APIs, PostgreSQL, AWS, Docker, CI/CD and test automation. I care about performance, accessibility and code that teams can keep evolving after launch.
 
-## Projeto principal
+- **Software Engineer (Front-end)** at **MarketData** — enterprise products for retail, energy, mobility and payments.
+- Technical owner for **Dexco** and **RecargaPay**; previously at **Banco do Brasil**.
+- Open-source maintainer of **[ATLAS](https://github.com/bellussi1/ATLAS)**, a live knowledge product with **896 entities, 7,918 sourced claims and 898 sources**.
+- Open to **software engineering roles** — front-end, product engineering and full-stack growth.
+- Currently deepening: **Java/Spring, AWS and distributed systems**.
 
-### [Portfólio · bellussi.vercel.app](https://bellussi.vercel.app)
+## Flagship project — ATLAS
 
-Meu espaço profissional para apresentar minha trajetória, experiência e projetos. O site reúne estudos de caso e ferramentas open source em uma experiência responsiva, acessível e focada em facilitar o contato com recrutadores e equipes de tecnologia. [Ver código-fonte](https://github.com/bellussi1/bellussi-portifolio).
+<a href="https://atlas-bellussi.pages.dev">
+  <img src="./assets/atlas-preview.webp" alt="ATLAS home page with the headline Tudo se liga and a colorful geometric composition" width="100%" />
+</a>
 
-## Projetos
+**[ATLAS](https://atlas-bellussi.pages.dev)** is an interactive encyclopedia of history, politics and society built on a typed knowledge graph. People, works, concepts and events connect as a navigable network, and every claim shows its source plus whether it is documented fact, interpretation, controversy or an acknowledged gap.
 
-| Projeto | O que faz | Tecnologias / estado |
+**Engineering highlights**
+
+- **Angular 21** with Signals, standalone components and prerendering; strict TypeScript and Zod-validated content.
+- Reproducible Wikimedia ingestion, static-first delivery and content published as immutable objects on **Cloudflare R2**.
+- **Playwright + axe** accessibility and end-to-end tests; architecture boundaries enforced with ESLint.
+- Bilingual editorial product with sourced claims, stable entity IDs and typed relations.
+
+[Live product](https://atlas-bellussi.pages.dev) · [Source code](https://github.com/bellussi1/ATLAS) · [Contributing guide](https://github.com/bellussi1/ATLAS/blob/master/CONTRIBUTING.md)
+
+## Selected work
+
+| Project | What it is | Stack / status |
 | --- | --- | --- |
-| [ATLAS](https://github.com/bellussi1/ATLAS) · [ao vivo](https://atlas-kappa-drab.vercel.app) | Enciclopédia visual e interativa de história, política e sociedade: uma rede navegável de pessoas, obras e conceitos, com fonte em cada afirmação. | Angular 21 · TypeScript · Zod · Wikidata · Static-first |
-| [KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem) | Aplicativo local para gerenciar a biblioteca Calibre, enviar ebooks ao Kindle e acompanhar leituras no Hardcover. | Electron · React · TypeScript · Python · Open source |
-| [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · [CI](https://github.com/bellussi1/deploy-preflight/actions/workflows/ci.yml) | Confere variáveis, arquivos e URLs antes de um deploy. | Node.js · CLI |
-| [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · [CI](https://github.com/bellussi1/local-webhook-recorder/actions/workflows/ci.yml) | Captura, inspeciona e reproduz webhooks em ambientes locais. | Node.js · SQLite |
-| [Compose Doctor](https://github.com/bellussi1/compose-doctor) · [CI](https://github.com/bellussi1/compose-doctor/actions/workflows/ci.yml) | Diagnostica serviços Docker Compose e sugere próximos passos. | Node.js · Docker |
+| **[ATLAS](https://github.com/bellussi1/ATLAS)** · [live](https://atlas-bellussi.pages.dev) | Visual encyclopedia of history, politics and society with sources behind every claim. | Angular 21 · TypeScript · Zod · Cloudflare R2 · Static-first |
+| **[KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem)** | Local-first Windows companion for Calibre, KOReader, Kindle and Hardcover. | Electron · React · TypeScript · Python · Open source |
+| **[Black Market](https://github.com/bellussi1/Black-Market)** | Production and market planner for the Brazilian Black Desert Online community. | Angular SSR · NestJS · PostgreSQL · Drizzle · Docker |
+| **[Comandinha](https://github.com/bellussi1/comandinha)** | Restaurant operations platform with digital menus, tables, orders and QR ordering. | Next.js · React · NestJS · PostgreSQL · Prisma |
+| **[Portfolio](https://github.com/bellussi1/bellussi-portifolio)** · [live](https://bellussi.vercel.app) | English-first portfolio with Portuguese version, case studies and ATS-oriented resumes. | HTML · CSS · TypeScript · Vite · Lighthouse 100 |
 
-Também em construção: [Black Market](https://github.com/bellussi1/Black-Market), planejador open source de receitas e produção para Black Desert Online.
+### Developer tools
 
-## Carreira e formação
+| Tool | What it does | Stack |
+| --- | --- | --- |
+| **[Deploy Preflight](https://github.com/bellussi1/deploy-preflight)** | Validates environment variables, build artifacts and endpoints before deployment. | TypeScript · Node.js · GitHub Actions |
+| **[Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder)** | Captures webhooks in local SQLite and replays them to loopback handlers. | TypeScript · Node.js · SQLite |
+| **[Compose Doctor](https://github.com/bellussi1/compose-doctor)** | Read-only Docker Compose diagnostics with actionable CLI reports. | TypeScript · Docker Compose · CLI |
 
-**MarketData** · Desenvolvedor Front-end · ago. 2024–atual<br />
-**Banco do Brasil** · Estagiário de desenvolvimento Front-end · out. 2022–ago. 2024<br />
-**Ciência da Computação** · Universidade FAM · 2022–2025<br />
-Português nativo · Inglês avançado
+## Experience
 
-## Tecnologias
+**MarketData** · Software Engineer (Front-end) · Aug 2024 – Present  
+Enterprise SPAs in Angular and React for clients including Natura, Nissan, Dexco, RecargaPay, Patriá and Visa network testers. Technical owner for Dexco and RecargaPay.
 
-React · Angular · Vue.js · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · Docker · AWS · CI/CD
+**Banco do Brasil** · Software Engineer Intern (Front-end) · Oct 2022 – Aug 2024  
+Internal portal for the International Business Unit. Rebuilt a legacy system in Vue.js, maintained the internal Design System and integrated Node.js microservices.
+
+**B.Sc. in Computer Science** · Universidade FAM · 2022–2025
+
+## Toolbox
+
+**Languages:** TypeScript · JavaScript (ES6+) · SQL · HTML5 · CSS3  
+**Front end:** React · Next.js · Angular · RxJS · Vue.js · Tailwind CSS · SASS  
+**Back end & data:** Node.js · NestJS · REST APIs · PostgreSQL · Prisma · Drizzle · ASP.NET MVC  
+**Cloud & DevOps:** AWS · Docker · GitLab CI/CD · GitHub Actions · Vercel · Cloudflare  
+**Engineering:** Design Systems · web performance · Core Web Vitals · WCAG accessibility · technical SEO · Vitest · Playwright · axe · AI-assisted development
+
+## Contact
+
+- **Portfolio:** [bellussi.vercel.app](https://bellussi.vercel.app)
+- **LinkedIn:** [in/enzo-bellussi](https://www.linkedin.com/in/enzo-bellussi/)
+- **Email:** [enzobellussi3@gmail.com](mailto:enzobellussi3@gmail.com)
+- **Resume:** [English](https://bellussi.vercel.app/curriculo-en.pdf) · [Português](https://bellussi.vercel.app/curriculo-pt.pdf)
 
 ---
 
 <details>
-  <summary>English version</summary>
+<summary><strong>Português</strong></summary>
 
-## About
+## Olá, sou o Enzo
 
-I am a Software Engineer focused on front-end development. At **MarketData**, I work with React, Angular and TypeScript on enterprise products, including projects for Dexco and RecargaPay. Previously, I worked at **Banco do Brasil** with Vue.js, Design System components and Node.js service integrations.
+Sou **engenheiro de software** em São Paulo. Construo e mantenho produtos web corporativos e ferramentas open source, com **profundidade em front-end e repertório em toda a stack**.
 
-I am open to software engineering opportunities, especially front-end roles. [Connect with me on LinkedIn](https://www.linkedin.com/in/enzo-bellussi/).
+Meu núcleo é **TypeScript, React, Angular e Node.js**. Ao redor: APIs REST, PostgreSQL, AWS, Docker, CI/CD e testes automatizados. Me importo com performance, acessibilidade e código que os times conseguem evoluir depois do deploy.
 
-## Featured project
+- **Engenheiro de Software (Front-end)** na **MarketData** — produtos corporativos para varejo, energia, mobilidade e pagamentos.
+- Responsável técnico pelos projetos **Dexco** e **RecargaPay**; antes, no **Banco do Brasil**.
+- Mantenedor open source do **[ATLAS](https://github.com/bellussi1/ATLAS)**, produto de conhecimento no ar com **896 entidades, 7.918 afirmações com fonte e 898 fontes**.
+- Aberto a **posições de engenharia de software** — front-end, engenharia de produto e crescimento full-stack.
+- Aprofundando agora: **Java/Spring, AWS e sistemas distribuídos**.
 
-### [Portfolio · bellussi.vercel.app](https://bellussi.vercel.app)
+### Projeto principal
 
-My professional home for sharing my experience, career and projects. It brings together case studies and open-source tools in a responsive, accessible experience designed to make it easy for recruiters and engineering teams to get in touch. [Source code](https://github.com/bellussi1/bellussi-portifolio).
+**[ATLAS](https://atlas-bellussi.pages.dev)** é uma enciclopédia interativa de história, política e sociedade construída sobre um grafo de conhecimento tipado. Pessoas, obras, conceitos e acontecimentos formam uma rede navegável, e cada afirmação mostra sua fonte e se é fato documentado, interpretação, controvérsia ou lacuna assumida.
 
-## Projects
+**Stack:** Angular 21 · TypeScript strict · Signals · Zod · Playwright · axe · Cloudflare R2 · static-first.
 
-| Project | What it does | Technology / status |
-| --- | --- | --- |
-| [ATLAS](https://github.com/bellussi1/ATLAS) · [live](https://atlas-kappa-drab.vercel.app) | Visual, interactive encyclopedia of history, politics and society: a navigable network of people, works and concepts, with a source behind every claim. | Angular 21 · TypeScript · Zod · Wikidata · Static-first |
-| [KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem) | Local app to manage a Calibre library, send ebooks to Kindle, and track reading on Hardcover. | Electron · React · TypeScript · Python · Open source |
-| [Deploy Preflight](https://github.com/bellussi1/deploy-preflight) · [CI](https://github.com/bellussi1/deploy-preflight/actions/workflows/ci.yml) | Checks variables, files and URLs before deployment. | Node.js · CLI |
-| [Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder) · [CI](https://github.com/bellussi1/local-webhook-recorder/actions/workflows/ci.yml) | Captures, inspects and replays webhooks in local environments. | Node.js · SQLite |
-| [Compose Doctor](https://github.com/bellussi1/compose-doctor) · [CI](https://github.com/bellussi1/compose-doctor/actions/workflows/ci.yml) | Diagnoses Docker Compose services and suggests next steps. | Node.js · Docker |
+### Experiência
 
-Also building: [Black Market](https://github.com/bellussi1/Black-Market), an open source recipe and production planner for Black Desert Online.
+**MarketData** · Engenheiro de Software (Front-end) · ago. 2024 – atual  
+**Banco do Brasil** · Estagiário em Engenharia de Software (Front-end) · out. 2022 – ago. 2024  
+**Ciência da Computação** · Universidade FAM · 2022–2025
 
-## Career and education
+### Contato
 
-**MarketData** · Front-end Developer · Aug 2024–present<br />
-**Banco do Brasil** · Front-end Development Intern · Oct 2022–Aug 2024<br />
-**Computer Science** · Universidade FAM · 2022–2025<br />
-Native Portuguese · Advanced English
-
-## Technologies
-
-React · Angular · Vue.js · Next.js · TypeScript · Node.js · NestJS · PostgreSQL · Prisma · Docker · AWS · CI/CD
-
-[Portfolio](https://bellussi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enzo-bellussi/)
+[Portfólio](https://bellussi.vercel.app) · [LinkedIn](https://www.linkedin.com/in/enzo-bellussi/) · [Email](mailto:enzobellussi3@gmail.com) · [Currículo PT](https://bellussi.vercel.app/curriculo-pt.pdf) · [Resume EN](https://bellussi.vercel.app/curriculo-en.pdf)
 
 </details>
