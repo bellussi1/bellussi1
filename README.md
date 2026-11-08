@@ -59,7 +59,7 @@ My core is **TypeScript, React, Angular and Node.js**. Around it: REST APIs, Pos
 
 ## Experience
 
-**MarketData** · Software Engineer (Front-end) · Aug 2024 – Present  
+**MarketData** · Mid-level Software Engineer (Front-end) · Aug 2024 – Present  
 Enterprise SPAs in Angular and React for clients including Natura, Nissan, Dexco, RecargaPay, Patriá and Visa network testers. Technical owner for Dexco and RecargaPay.
 
 **Banco do Brasil** · Software Engineer Intern (Front-end) · Oct 2022 – Aug 2024  
@@ -107,7 +107,7 @@ Meu núcleo é **TypeScript, React, Angular e Node.js**. Ao redor: APIs REST, Po
 
 ### Experiência
 
-**MarketData** · Engenheiro de Software (Front-end) · ago. 2024 – atual  
+**MarketData** · Engenheiro de Software Pleno (Front-end) · ago. 2024 – atual  
 **Banco do Brasil** · Estagiário em Engenharia de Software (Front-end) · out. 2022 – ago. 2024  
 **Ciência da Computação** · Universidade FAM · 2022–2025
 
