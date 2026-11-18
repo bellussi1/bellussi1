@@ -45,14 +45,19 @@ My core is **TypeScript, React, Angular and Node.js**. Around it: REST APIs, Pos
 | --- | --- | --- |
 | **[ATLAS](https://github.com/bellussi1/ATLAS)** · [live](https://atlas-bellussi.pages.dev) | Visual encyclopedia of history, politics and society with sources behind every claim. | Angular 21 · TypeScript · Zod · Cloudflare R2 · Static-first |
 | **[KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem)** | Local-first Windows companion for Calibre, KOReader, Kindle and Hardcover. | Electron · React · TypeScript · Python · Open source |
+| **[Dalibre](https://github.com/bellussi1/dalibre)** · [plugin template](https://github.com/bellussi1/dalibre-plugin-template) | Fork and upstream contributions to a lightweight native Calibre alternative (pt-BR localization, Lusophone book stores, list sorting and SDK types). | Go · MyGo UI · SQLite · JavaScript |
+| **[Scriptorium](https://github.com/bellussi1/Scriptorium)** | Personal fork of TranslateBooksWithLLMs for resumable literary book translation into Brazilian Portuguese via local Ollama models. | Python · Ollama · Docker Compose · EPUB |
 | **[Black Market](https://github.com/bellussi1/Black-Market)** | Production and market planner for the Brazilian Black Desert Online community. | Angular SSR · NestJS · PostgreSQL · Drizzle · Docker |
 | **[Comandinha](https://github.com/bellussi1/comandinha)** | Restaurant operations platform with digital menus, tables, orders and QR ordering. | Next.js · React · NestJS · PostgreSQL · Prisma |
 | **[Portfolio](https://github.com/bellussi1/bellussi-portifolio)** · [live](https://bellussi.vercel.app) | English-first portfolio with Portuguese version, case studies and ATS-oriented resumes. | HTML · CSS · TypeScript · Vite · Lighthouse 100 |
 
-### Developer tools
+### Developer tools & plugins
 
 | Tool | What it does | Stack |
 | --- | --- | --- |
+| **[Dalibre Hardcover](https://github.com/bellussi1/dalibre-hardcover)** | Two-way Hardcover reading status sync and metadata plugin for Dalibre, paired with KOReader via ISBN. | JavaScript · GraphQL · Dalibre SDK |
+| **[Dalibre ISBN Brasil](https://github.com/bellussi1/dalibre-isbn-brasil)** | Brazilian ISBN (`978-65` / `978-85`) metadata plugin via CBL/BrasilAPI with Open Library fallback. | JavaScript · BrasilAPI · Dalibre SDK |
+| **[Dalibre Open Library](https://github.com/bellussi1/dalibre-openlibrary)** | Open Library metadata source plugin for Dalibre prioritizing matching-language editions. | JavaScript · Open Library · Dalibre SDK |
 | **[Deploy Preflight](https://github.com/bellussi1/deploy-preflight)** | Validates environment variables, build artifacts and endpoints before deployment. | TypeScript · Node.js · GitHub Actions |
 | **[Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder)** | Captures webhooks in local SQLite and replays them to loopback handlers. | TypeScript · Node.js · SQLite |
 | **[Compose Doctor](https://github.com/bellussi1/compose-doctor)** | Read-only Docker Compose diagnostics with actionable CLI reports. | TypeScript · Docker Compose · CLI |
@@ -104,6 +109,23 @@ Meu núcleo é **TypeScript, React, Angular e Node.js**. Ao redor: APIs REST, Po
 **[ATLAS](https://atlas-bellussi.pages.dev)** é uma enciclopédia interativa de história, política e sociedade construída sobre um grafo de conhecimento tipado. Pessoas, obras, conceitos e acontecimentos formam uma rede navegável, e cada afirmação mostra sua fonte e se é fato documentado, interpretação, controvérsia ou lacuna assumida.
 
 **Stack:** Angular 21 · TypeScript strict · Signals · Zod · Playwright · axe · Cloudflare R2 · static-first.
+
+### Projetos e ferramentas
+
+| Projeto / ferramenta | O que faz | Stack / estado |
+| --- | --- | --- |
+| **[ATLAS](https://github.com/bellussi1/ATLAS)** · [ao vivo](https://atlas-bellussi.pages.dev) | Enciclopédia visual de história, política e sociedade com fontes em cada afirmação. | Angular 21 · TypeScript · Zod · Cloudflare R2 · Static-first |
+| **[KOReader Ecosystem](https://github.com/bellussi1/koreader-ecosystem)** | Aplicativo Windows local-first para Calibre, KOReader, Kindle e Hardcover. | Electron · React · TypeScript · Python · Open source |
+| **[Dalibre](https://github.com/bellussi1/dalibre)** · [template](https://github.com/bellussi1/dalibre-plugin-template) | Fork e contribuições upstream para alternativa nativa ao Calibre (tradução pt-BR, lojas lusófonas, ordenação e SDK). | Go · MyGo UI · SQLite · JavaScript |
+| **[Scriptorium](https://github.com/bellussi1/Scriptorium)** | Fork pessoal de TranslateBooksWithLLMs para tradução literária retomável para pt-BR via Ollama. | Python · Ollama · Docker Compose · EPUB |
+| **[Dalibre Hardcover](https://github.com/bellussi1/dalibre-hardcover)** | Plugin para Dalibre de sincronização bidirecional de leitura e metadados com o Hardcover. | JavaScript · GraphQL · Dalibre SDK |
+| **[Dalibre ISBN Brasil](https://github.com/bellussi1/dalibre-isbn-brasil)** | Plugin de metadados brasileiros (`978-65` / `978-85`) via CBL/BrasilAPI com fallback na Open Library. | JavaScript · BrasilAPI · Dalibre SDK |
+| **[Dalibre Open Library](https://github.com/bellussi1/dalibre-openlibrary)** | Plugin de busca de metadados na Open Library para o Dalibre com foco em edições no idioma do livro. | JavaScript · Open Library · Dalibre SDK |
+| **[Black Market](https://github.com/bellussi1/Black-Market)** | Planejador de produção e mercado para a comunidade brasileira de Black Desert Online. | Angular SSR · NestJS · PostgreSQL · Drizzle · Docker |
+| **[Comandinha](https://github.com/bellussi1/comandinha)** | Plataforma de operação para restaurantes com cardápio digital, mesas, pedidos e QR Code. | Next.js · React · NestJS · PostgreSQL · Prisma |
+| **[Deploy Preflight](https://github.com/bellussi1/deploy-preflight)** | Valida variáveis de ambiente, artefatos de build e endpoints antes do deploy. | TypeScript · Node.js · GitHub Actions |
+| **[Local Webhook Recorder](https://github.com/bellussi1/local-webhook-recorder)** | Captura webhooks em SQLite local e reproduz eventos para handlers locais. | TypeScript · Node.js · SQLite |
+| **[Compose Doctor](https://github.com/bellussi1/compose-doctor)** | Diagnóstico somente leitura de serviços Docker Compose com relatórios no terminal. | TypeScript · Docker Compose · CLI |
 
 ### Experiência
 
