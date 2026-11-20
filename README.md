@@ -21,7 +21,7 @@ Open to software engineering roles.
 **[ATLAS](https://atlas-bellussi.pages.dev)** is an open-source visual encyclopedia of history, politics, economics and society. People, works, concepts and events form one typed knowledge graph (**1,320 entities, 12,146 claims with citations, 1,482 sources**), and every claim is classified as documented fact, attributed thesis, interpretation or contested claim.
 
 <a href="https://atlas-bellussi.pages.dev">
-  <img src="./assets/atlas-preview.webp" alt="ATLAS home page with the headline Tudo se liga and a colorful geometric composition" width="100%" />
+  <img src="./assets/atlas-preview.webp?v=2" alt="ATLAS home page with the headline Tudo se liga and a colorful geometric composition" width="100%" />
 </a>
 
 <table>
