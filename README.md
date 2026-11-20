@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-header.png" alt="Enzo Bellussi — Software Engineer" width="100%" />
+  <img src="./assets/profile-header.png" alt="Enzo Bellussi, Software Engineer" width="100%" />
   <br />
   <a href="https://bellussi.vercel.app">Portfolio</a>
   &nbsp;·&nbsp;
